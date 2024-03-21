@@ -1,0 +1,12 @@
+.card-img {
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+#page-header {
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-image: url("/images/hero.jpg");
+}
